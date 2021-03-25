@@ -1,11 +1,16 @@
 _repo: In-Brightest-Africa_64675
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64675-h/images/cover.jpg
 creator:
   author:
     agent_name: Akeley, Carl Ethan
     gutenberg_agent_id: '53004'
     url: http://www.gutenberg.org/2009/agents/53004
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64675#In-Brightest-Africa
 gutenberg_issued: '2021-03-02'
 gutenberg_type: Text
 identifiers:
